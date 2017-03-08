@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Trip Time</string>
+    <string name="bottle_time">Hora de la muestra</string>
+    <string name="button_send">Guardar</string>
+    <string name="origin_plant">CD origen</string>
+    <string name="sample_brand">Marca</string>
+    <string name="column1">Origen:</string>
+    <string name="column2">Marca:</string>
+    <string name="column3">Hora Muestra:</string>
+    <string name="cd_origen">CD Origen:</string>
+    <string name="hora_muestra">Hora muestra:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="pendientes">Pendientes: </string>
+    <string name="title_activity_login">Ingresar</string>
+    <string name="loginName">Nombre de usuario</string>
+    <string name="loginAction">Ingresar</string>
+    <string name="copyright">(&#169;) Creado por <b>Dev Cell and Prototyping COPEC 2017</b></string>
+</resources>
